@@ -1,0 +1,7 @@
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\9.ReverseCharacters\bin\Debug\9.ReverseCharacters.exe.config
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\9.ReverseCharacters\bin\Debug\9.ReverseCharacters.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\9.ReverseCharacters\bin\Debug\9.ReverseCharacters.pdb
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\9.ReverseCharacters\obj\Debug\9.ReverseCharacters.csprojResolveAssemblyReference.cache
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\9.ReverseCharacters\obj\Debug\9.ReverseCharacters.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\9.ReverseCharacters\obj\Debug\9.ReverseCharacters.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\9.ReverseCharacters\obj\Debug\9.ReverseCharacters.pdb

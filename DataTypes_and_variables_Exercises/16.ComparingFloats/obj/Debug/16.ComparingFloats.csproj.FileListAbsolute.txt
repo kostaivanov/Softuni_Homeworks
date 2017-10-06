@@ -1,0 +1,7 @@
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\16.ComparingFloats\bin\Debug\16.ComparingFloats.exe.config
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\16.ComparingFloats\bin\Debug\16.ComparingFloats.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\16.ComparingFloats\bin\Debug\16.ComparingFloats.pdb
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\16.ComparingFloats\obj\Debug\16.ComparingFloats.csprojResolveAssemblyReference.cache
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\16.ComparingFloats\obj\Debug\16.ComparingFloats.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\16.ComparingFloats\obj\Debug\16.ComparingFloats.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\16.ComparingFloats\obj\Debug\16.ComparingFloats.pdb

@@ -1,0 +1,7 @@
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\10.CenturiesToNanoseconds\bin\Debug\10.CenturiesToNanoseconds.exe.config
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\10.CenturiesToNanoseconds\bin\Debug\10.CenturiesToNanoseconds.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\10.CenturiesToNanoseconds\bin\Debug\10.CenturiesToNanoseconds.pdb
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\10.CenturiesToNanoseconds\obj\Debug\10.CenturiesToNanoseconds.csprojResolveAssemblyReference.cache
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\10.CenturiesToNanoseconds\obj\Debug\10.CenturiesToNanoseconds.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\10.CenturiesToNanoseconds\obj\Debug\10.CenturiesToNanoseconds.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\10.CenturiesToNanoseconds\obj\Debug\10.CenturiesToNanoseconds.pdb

@@ -1,0 +1,1 @@
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\13.VowelOrDigit\obj\Debug\13.VowelOrDigit.csproj.CoreCompileInputs.cache

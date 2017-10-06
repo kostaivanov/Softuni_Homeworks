@@ -1,0 +1,6 @@
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\5.BooleanVariable\bin\Debug\5.BooleanVariable.exe.config
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\5.BooleanVariable\bin\Debug\5.BooleanVariable.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\5.BooleanVariable\bin\Debug\5.BooleanVariable.pdb
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\5.BooleanVariable\obj\Debug\5.BooleanVariable.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\5.BooleanVariable\obj\Debug\5.BooleanVariable.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\5.BooleanVariable\obj\Debug\5.BooleanVariable.pdb

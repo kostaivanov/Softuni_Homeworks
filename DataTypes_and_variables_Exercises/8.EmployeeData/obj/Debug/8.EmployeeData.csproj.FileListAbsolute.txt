@@ -1,0 +1,6 @@
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\8.EmployeeData\obj\Debug\8.EmployeeData.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\8.EmployeeData\bin\Debug\8.EmployeeData.exe.config
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\8.EmployeeData\bin\Debug\8.EmployeeData.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\8.EmployeeData\bin\Debug\8.EmployeeData.pdb
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\8.EmployeeData\obj\Debug\8.EmployeeData.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\8.EmployeeData\obj\Debug\8.EmployeeData.pdb

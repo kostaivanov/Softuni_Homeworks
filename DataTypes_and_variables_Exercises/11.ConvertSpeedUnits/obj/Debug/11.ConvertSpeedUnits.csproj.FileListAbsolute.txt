@@ -1,0 +1,7 @@
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\11.ConvertSpeedUnits\bin\Debug\11.ConvertSpeedUnits.exe.config
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\11.ConvertSpeedUnits\bin\Debug\11.ConvertSpeedUnits.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\11.ConvertSpeedUnits\bin\Debug\11.ConvertSpeedUnits.pdb
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\11.ConvertSpeedUnits\obj\Debug\11.ConvertSpeedUnits.csprojResolveAssemblyReference.cache
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\11.ConvertSpeedUnits\obj\Debug\11.ConvertSpeedUnits.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\11.ConvertSpeedUnits\obj\Debug\11.ConvertSpeedUnits.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\11.ConvertSpeedUnits\obj\Debug\11.ConvertSpeedUnits.pdb

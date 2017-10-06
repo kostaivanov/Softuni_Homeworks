@@ -1,0 +1,6 @@
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\12.RectangleProperties\bin\Debug\12.RectangleProperties.exe.config
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\12.RectangleProperties\bin\Debug\12.RectangleProperties.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\12.RectangleProperties\bin\Debug\12.RectangleProperties.pdb
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\12.RectangleProperties\obj\Debug\12.RectangleProperties.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\12.RectangleProperties\obj\Debug\12.RectangleProperties.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\12.RectangleProperties\obj\Debug\12.RectangleProperties.pdb

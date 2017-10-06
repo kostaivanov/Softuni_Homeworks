@@ -1,0 +1,5 @@
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\4.VariableHexadecimalFormat\bin\Debug\4.VariableHexadecimalFormat.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\4.VariableHexadecimalFormat\bin\Debug\4.VariableHexadecimalFormat.pdb
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\4.VariableHexadecimalFormat\obj\Debug\4.VariableHexadecimalFormat.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\4.VariableHexadecimalFormat\obj\Debug\4.VariableHexadecimalFormat.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\4.VariableHexadecimalFormat\obj\Debug\4.VariableHexadecimalFormat.pdb

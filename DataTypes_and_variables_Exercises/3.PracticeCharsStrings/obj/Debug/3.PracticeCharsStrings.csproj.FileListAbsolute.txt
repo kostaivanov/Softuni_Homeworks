@@ -1,0 +1,7 @@
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\3.PracticeCharsStrings\bin\Debug\3.PracticeCharsStrings.exe.config
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\3.PracticeCharsStrings\bin\Debug\3.PracticeCharsStrings.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\3.PracticeCharsStrings\bin\Debug\3.PracticeCharsStrings.pdb
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\3.PracticeCharsStrings\obj\Debug\3.PracticeCharsStrings.csprojResolveAssemblyReference.cache
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\3.PracticeCharsStrings\obj\Debug\3.PracticeCharsStrings.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\3.PracticeCharsStrings\obj\Debug\3.PracticeCharsStrings.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\3.PracticeCharsStrings\obj\Debug\3.PracticeCharsStrings.pdb

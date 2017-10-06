@@ -1,0 +1,6 @@
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\7.ExchangeVariableValues\bin\Debug\7.ExchangeVariableValues.exe.config
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\7.ExchangeVariableValues\bin\Debug\7.ExchangeVariableValues.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\7.ExchangeVariableValues\bin\Debug\7.ExchangeVariableValues.pdb
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\7.ExchangeVariableValues\obj\Debug\7.ExchangeVariableValues.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\7.ExchangeVariableValues\obj\Debug\7.ExchangeVariableValues.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\7.ExchangeVariableValues\obj\Debug\7.ExchangeVariableValues.pdb

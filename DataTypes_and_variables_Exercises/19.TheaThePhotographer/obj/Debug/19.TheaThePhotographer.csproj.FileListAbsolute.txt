@@ -1,0 +1,7 @@
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\19.TheaThePhotographer\bin\Debug\19.TheaThePhotographer.exe.config
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\19.TheaThePhotographer\bin\Debug\19.TheaThePhotographer.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\19.TheaThePhotographer\bin\Debug\19.TheaThePhotographer.pdb
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\19.TheaThePhotographer\obj\Debug\19.TheaThePhotographer.csprojResolveAssemblyReference.cache
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\19.TheaThePhotographer\obj\Debug\19.TheaThePhotographer.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\19.TheaThePhotographer\obj\Debug\19.TheaThePhotographer.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\19.TheaThePhotographer\obj\Debug\19.TheaThePhotographer.pdb

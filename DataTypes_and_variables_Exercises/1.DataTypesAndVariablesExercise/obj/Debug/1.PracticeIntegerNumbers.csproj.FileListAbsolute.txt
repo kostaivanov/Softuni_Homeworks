@@ -1,0 +1,5 @@
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\1.DataTypesAndVariablesExercise\bin\Debug\1.DataTypesAndVariablesExercise.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\1.DataTypesAndVariablesExercise\bin\Debug\1.DataTypesAndVariablesExercise.pdb
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\1.DataTypesAndVariablesExercise\obj\Debug\1.PracticeIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\1.DataTypesAndVariablesExercise\obj\Debug\1.DataTypesAndVariablesExercise.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\1.DataTypesAndVariablesExercise\obj\Debug\1.DataTypesAndVariablesExercise.pdb

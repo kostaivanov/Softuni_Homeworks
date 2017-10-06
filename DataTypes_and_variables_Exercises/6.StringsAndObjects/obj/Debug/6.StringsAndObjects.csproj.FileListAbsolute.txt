@@ -1,0 +1,6 @@
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\6.StringsAndObjects\obj\Debug\6.StringsAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\6.StringsAndObjects\bin\Debug\6.StringsAndObjects.exe.config
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\6.StringsAndObjects\bin\Debug\6.StringsAndObjects.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\6.StringsAndObjects\bin\Debug\6.StringsAndObjects.pdb
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\6.StringsAndObjects\obj\Debug\6.StringsAndObjects.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\6.StringsAndObjects\obj\Debug\6.StringsAndObjects.pdb

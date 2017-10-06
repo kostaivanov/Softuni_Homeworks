@@ -1,0 +1,5 @@
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\2.PracticeFloatPointNums\bin\Debug\2.PracticeFloatPointNums.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\2.PracticeFloatPointNums\bin\Debug\2.PracticeFloatPointNums.pdb
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\2.PracticeFloatPointNums\obj\Debug\2.PracticeFloatPointNums.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\2.PracticeFloatPointNums\obj\Debug\2.PracticeFloatPointNums.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\2.PracticeFloatPointNums\obj\Debug\2.PracticeFloatPointNums.pdb

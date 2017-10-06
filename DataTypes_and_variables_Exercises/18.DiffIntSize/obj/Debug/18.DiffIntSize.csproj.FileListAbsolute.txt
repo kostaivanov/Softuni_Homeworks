@@ -1,0 +1,7 @@
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\18.DiffIntSize\obj\Debug\18.DiffIntSize.csprojResolveAssemblyReference.cache
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\18.DiffIntSize\obj\Debug\18.DiffIntSize.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\18.DiffIntSize\bin\Debug\18.DiffIntSize.exe.config
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\18.DiffIntSize\bin\Debug\18.DiffIntSize.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\18.DiffIntSize\bin\Debug\18.DiffIntSize.pdb
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\18.DiffIntSize\obj\Debug\18.DiffIntSize.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\18.DiffIntSize\obj\Debug\18.DiffIntSize.pdb

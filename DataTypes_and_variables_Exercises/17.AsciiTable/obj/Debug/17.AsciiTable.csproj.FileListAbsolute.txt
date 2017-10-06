@@ -1,0 +1,6 @@
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\17.AsciiTable\bin\Debug\17.AsciiTable.exe.config
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\17.AsciiTable\bin\Debug\17.AsciiTable.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\17.AsciiTable\bin\Debug\17.AsciiTable.pdb
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\17.AsciiTable\obj\Debug\17.AsciiTable.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\17.AsciiTable\obj\Debug\17.AsciiTable.exe
+C:\Users\kosta\source\repos\1.DataTypesAndVariablesExercise\17.AsciiTable\obj\Debug\17.AsciiTable.pdb
