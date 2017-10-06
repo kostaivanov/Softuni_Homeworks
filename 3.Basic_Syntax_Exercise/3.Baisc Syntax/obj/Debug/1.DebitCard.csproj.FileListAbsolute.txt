@@ -1,0 +1,6 @@
+c:\users\kosta\documents\visual studio 2013\Projects\3.Baisc Syntax\3.Baisc Syntax\bin\Debug\3.Baisc Syntax.exe.config
+c:\users\kosta\documents\visual studio 2013\Projects\3.Baisc Syntax\3.Baisc Syntax\bin\Debug\3.Baisc Syntax.exe
+c:\users\kosta\documents\visual studio 2013\Projects\3.Baisc Syntax\3.Baisc Syntax\bin\Debug\3.Baisc Syntax.pdb
+c:\users\kosta\documents\visual studio 2013\Projects\3.Baisc Syntax\3.Baisc Syntax\obj\Debug\1.DebitCard.csprojResolveAssemblyReference.cache
+c:\users\kosta\documents\visual studio 2013\Projects\3.Baisc Syntax\3.Baisc Syntax\obj\Debug\3.Baisc Syntax.exe
+c:\users\kosta\documents\visual studio 2013\Projects\3.Baisc Syntax\3.Baisc Syntax\obj\Debug\3.Baisc Syntax.pdb
