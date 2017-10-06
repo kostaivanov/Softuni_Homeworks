@@ -1,0 +1,2 @@
+C:\Users\kosta\documents\visual studio 2013\Projects\ConditionalStatementsAndLoops\ConditionalStatementsAndLoops\obj\Debug\ConditionalStatementsAndLoops.exe
+C:\Users\kosta\documents\visual studio 2013\Projects\ConditionalStatementsAndLoops\ConditionalStatementsAndLoops\obj\Debug\ConditionalStatementsAndLoops.pdb

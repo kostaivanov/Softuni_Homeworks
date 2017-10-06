@@ -1,0 +1,1 @@
+c:\users\kosta\documents\visual studio 2013\Projects\ConditionalStatementsAndLoops\ConditionalStatementsAndLoops\bin\Debug\ConditionalStatementsAndLoops.exe.config
